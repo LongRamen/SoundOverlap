@@ -1,0 +1,5 @@
+displayName = Sounds have no MaxInstances Limit
+author = LongRamen
+version = 1.0
+includeSource = true
+side = Client

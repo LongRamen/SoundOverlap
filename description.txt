@@ -1,0 +1,5 @@
+In vanilla, each sound has a maximum number of instances that can be playing at once. For most sounds, this limit is 1. After the limit is reached, if a new instance of the sound needs to be played, one of the currently playing instances gets replaced.
+
+This mod completely removes this limit, meaning any number of instances of the same sound can overlap.
+
+Now you can burst your eardrums (and maybe your RAM) to your heart's content.

@@ -1,0 +1,10 @@
+Configs: {
+	MainConfig: {
+		DisplayName: Config
+
+		Enabled: {
+			Label: Enabled
+			Tooltip: Enables the mod
+		}
+	}
+}
