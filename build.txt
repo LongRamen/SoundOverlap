@@ -1,5 +1,6 @@
 displayName = Sounds have no MaxInstances Limit
 author = LongRamen
-version = 1.0
+version = 1.1
 includeSource = true
 side = Client
+homepage = https://github.com/LongRamen/SoundOverlap

@@ -3,3 +3,5 @@ In vanilla, each sound has a maximum number of instances that can be playing at 
 This mod completely removes this limit, meaning any number of instances of the same sound can overlap.
 
 Now you can burst your eardrums (and maybe your RAM) to your heart's content.
+
+Github: https://github.com/LongRamen/SoundOverlap
